@@ -1,0 +1,6 @@
+name,harvest_age,max_age,ph_min,ph_max,ec_min,ec_max,temperature_min,temperature_max
+Lettuce,30,45,5.5,6.5,1.2,1.8,18,24
+Spinach,40,60,6.0,7.0,1.8,2.3,16,24
+Basil,35,70,5.5,6.5,1.0,1.6,20,28
+Kale,55,90,5.5,6.5,1.8,2.5,16,24
+Carrots,5,10,4.5,7.0,1.0,2.5,16,24
